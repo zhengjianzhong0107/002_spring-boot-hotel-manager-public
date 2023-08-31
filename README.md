@@ -1,6 +1,8 @@
-**完整代码收费  加qq  931708230 或者加微信  ynwwxid**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **博客：
 [https://blog.csdn.net/2303_76227485/article/details/128640401](https://blog.csdn.net/2303_76227485/article/details/128640401)**
@@ -8,8 +10,6 @@
 **视频演示：
 [B站视频演示](https://www.bilibili.com/video/BV1jG411N7iw)**
 
-**毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 
 ## 基于springboot的酒店预订管理系统(源代码+数据库+10000字文档)
@@ -23,13 +23,13 @@
 - 超级管理员拥有所有权限  
 
 - 后台功能：
-
+  
   工作人员管理、角色管理、应用管理、
-
+  
   日志管理、客户管理、留言管理、
-
+  
   房型管理、房间管理、预约订单管理、
-
+  
   入住管理、统计分析管理
 
 用户角色包含以下功能：
@@ -41,9 +41,11 @@
 ## 二、所用技术
 
 - 前端技术栈
+
 - jsp、layer、easyui
 
 - 后端技术栈
+
 - springboot，java，mysql，mybatis
 
 ## 三、环境介绍
@@ -82,8 +84,6 @@
 
 ![contents](./picture/picture14.png)
 
-
-
 ## 五、浏览地址
 
 前台地址    http://localhost:8088/
@@ -103,8 +103,3 @@
 3. 进入src/main/resources修改application.properties里面的数据库配置
 
 4. 启动项目后端项目 
-
-   
-
-**需要完整代码可以加qq   931708230 或者加微信   ynwwxid**
-**需要完整代码可以加qq   931708230 或者加微信   ynwwxid**
